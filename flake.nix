@@ -17,7 +17,6 @@
         # 在进入 shell 时自动设置环境
         shellHook = ''
           echo "--- NixOS CUDA + uv Shell ---"
-          echo "CUDA Toolkit 11 is available."
           echo "Using Hugging Face mirror: hf-mirror.com"
 
           # Hugging Face mirror
